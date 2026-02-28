@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Talullah",
+  "base_artist": "Jamiroquai",
+  "createdAt": "2026-02-28T06:32:23.620663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talullah",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/01_Talullah_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talullah",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/02_Talullah_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talullah",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/03_Talullah_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talullah",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/04_Talullah_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Talullah",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/05_Talullah_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Talullah (Audio)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/06_Talullah_(Audio)_Jamiroquai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talullah",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/pl_01_Talullah_Jamiroquai.txt"
+    }
+  ]
+}
